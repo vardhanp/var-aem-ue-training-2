@@ -3,6 +3,7 @@
     "/content/vareds/:/",
     "/content/vareds/configuration:/.helix/config.json",
     "/content/vareds/metadata:/metadata.json"
+    "/content/vareds/redirects:/redirects.json"
   ],
   "includes": [
     "/content/vareds/"
